@@ -1,0 +1,15 @@
+*.key
+*.token
+*password*
+*.env
+*.secret
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*.credentials
+.netrc
+.ssh/
+*_history
+*.log
